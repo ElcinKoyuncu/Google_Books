@@ -139,12 +139,12 @@ const SearchBooks = () => {
                   {Auth.loggedIn() && (
                     <Button
                       disabled={savedBookIds?.some(
-                        (savedId) => savedId === book.bookId
+                        (savedBookId) => savedBookId === book.bookId
                       )}
                       className="btn-block btn-info"
                       onClick={() => handleSaveBook(book.bookId)}
                     >
-                      {savedBookIds?.some((savedId) => savedId === book.bookId)
+                      {savedBookIds?.some((savedBookId) => savedBookId === book.bookId)
                         ? 'Book Already Saved!'
                         : 'Save This Book!'}
                     </Button>
