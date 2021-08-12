@@ -9,11 +9,11 @@ This is the homework for Google books.
 
 ## Screenshot for the application
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./Assets/screenshot.png)
 
 ## Video for the application
 
-![Demo](./assets/demo.gif)
+![Demo](./Assets/demo.gif)
 
 ## User Story
 
