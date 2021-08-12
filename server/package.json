@@ -5,9 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "watch":"nodeman"
+    "watch": "nodemon"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
