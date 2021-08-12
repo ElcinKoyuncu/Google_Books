@@ -7,6 +7,14 @@ This is the homework for Google books.
 ## Link for the repo
 [My homework](https://morning-forest-22479.herokuapp.com/)
 
+## Screenshot for the application
+
+![Screenshot](./assets/screenshot.png)
+
+## Video for the application
+
+![Demo](./assets/demo.gif)
+
 ## User Story
 
 ```md
